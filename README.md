@@ -6,6 +6,7 @@ Criação de projeto para fixação de conceitos do Node
 <p align="center">
  
   <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=yellow&style=for-the-badge&logo=JAVASCRIPT"/>
+  <img src"https://img.shields.io/badge/-Node-green/"/>
  
 </p>
 </br>
